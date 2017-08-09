@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gprimeltectc/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/gprimeltectc/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/gprimeltectc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/gprimeltectc/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/gprimeltectc/proprietary/vendor/lib/lib-sec-disp.so:system/vendor/lib/lib-sec-disp.so \
     vendor/samsung/gprimeltectc/proprietary/vendor/lib/libactuator_dw9804_kleos_camcorder.so:system/vendor/lib/libactuator_dw9804_kleos_camcorder.so \
     vendor/samsung/gprimeltectc/proprietary/vendor/lib/libactuator_dw9804_kleos_camera.so:system/vendor/lib/libactuator_dw9804_kleos_camera.so \
